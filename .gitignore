@@ -1,0 +1,11 @@
+# Node Modules
+node_modules
+
+# Bower
+bower_components
+
+# Netbeans
+nbproject
+
+# Bower
+.ide
