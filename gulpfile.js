@@ -2,7 +2,8 @@
  *
  *  Gulp file Liverload, Bootstrap Sass, Font Awesome
  *
- *  
+ *  https://github.com/alexishida/gulp-sass-bootstrap
+ *
  *  Autor: Alex Ishida
  *  Versão: 1.0
  *
