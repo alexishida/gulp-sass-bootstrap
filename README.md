@@ -12,6 +12,8 @@ https://nodejs.org/en/download/
 Execute
 
 ``` 
+$ npm install -g gulp bower
+
 $ npm install
 
 $ bower install
